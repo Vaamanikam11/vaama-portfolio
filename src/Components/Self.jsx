@@ -44,7 +44,7 @@ const Self = () => {
                     <ButtonPrimary 
                         label= "Download Resume"
                         icon = "download"
-                        href="/public/vaama_resume.pdf"
+                        href="/vaama_resume.pdf"
 
                     />
 
