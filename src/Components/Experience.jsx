@@ -14,7 +14,7 @@ const experiences = [
   {
     role: "AI Developer",
     company: "CheckExplore Technologies",
-    period: "May 2022 – July 2023",
+    period: "Feb 2022 – July 2023",
     stack: ["AI", "OCR", "Computer Vision"],
     description: "Developed an AI-powered vehicle recognition system and optimized OCR models for the insurance sector."
   },
