@@ -41,11 +41,11 @@ const socials = [
   },
   {
     label: 'Twitter X',
-    href: 'https://www.linkedin.com/in/vaamanikam/'
+    href: 'https://x.com/NikamVaama'
   },
   {
     label: 'Instagram',
-    href: 'https://www.linkedin.com/in/vaamanikam/'
+    href: 'https://www.instagram.com/vaama_nikam11/'
   }
 ];
 
