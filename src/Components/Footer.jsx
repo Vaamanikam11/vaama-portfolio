@@ -41,11 +41,11 @@ const socials = [
   },
   {
     label: 'Twitter X',
-    href: 'https://x.com/codewithsadee_'
+    href: 'https://www.linkedin.com/in/vaamanikam/'
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/codewithsadee'
+    href: 'https://www.linkedin.com/in/vaamanikam/'
   }
 ];
 
