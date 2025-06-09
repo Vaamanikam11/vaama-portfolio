@@ -40,7 +40,7 @@ const Header = () => {
 
                 <a 
                 href="#contact"
-                className="btn btn-secondary max-md:hidden"
+                className="btn btn-secondary max-md:hidden justify-self-end"
                 >
                     Contact Me
                 </a>
