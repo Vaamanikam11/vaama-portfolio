@@ -19,9 +19,9 @@ const experiences = [
     description: "Developed an AI-powered vehicle recognition system and optimized OCR models for the insurance sector."
   },
   {
-    role: "SDE Intern",
+    role: "AI/ML Intern",
     company: "Axisvation Solutions",
-    period: "Jul 2021 – Sep 2021",
+    period: "May 2021 – Dec 2021",
     stack: ["AI", "OCR", "Model Training"],
     description: "Built image-processing pipelines for identifying tire damages using custom-trained ML models."
   }
