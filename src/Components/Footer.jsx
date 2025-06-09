@@ -37,7 +37,7 @@ const socials = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/codewithsadee'
+    href: 'https://www.linkedin.com/in/vaamanikam/'
   },
   {
     label: 'Twitter X',
